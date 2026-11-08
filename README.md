@@ -77,6 +77,11 @@ Compila el proyecto y genera el archivo instalable de Android.
 Una vez finalizada la compilación, el archivo APK se encontrará normalmente en la siguiente ubicación:
 `` platforms/android/app/build/outputs/apk/debug/ ``
 
+## Descarga
+la última versión compilada de la aplicación puede descargarse desde la sección **Releases** de este repositorio.  
+Descargar APK v1.0.0:  
+https://github.com/maurock77/EcoVidaApp/releases/tag/EcoVida.apk
+
 ## Objetivo académico
 Este proyecto fue desarrollado como parte de la asignatura de Desarrollo de Aplicaciones Móviles, utilizando Apache Cordova para implementar una aplicación híbrida orientada a la sostenibilidad y educación ambiental.
 
@@ -85,3 +90,4 @@ Desarrollado por Mauricio Henríquez Pérez.
 
 ## Licencia
 Proyecto desarrollado con fines académicos.
+
